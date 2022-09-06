@@ -12,7 +12,7 @@ git clone <url>
 E.g.
 
 ```bash
-git clone https://github.com/up-prog/python.git
+git clone https://github.com/UniversidadDePalermo/python.git
 ```
 
 This will create a directory with the repository name, in this case it is
