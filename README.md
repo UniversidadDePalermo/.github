@@ -7,7 +7,8 @@ El centro de recursos de la organizacón.
 - Comunidad
   - [Código de Conducta](./CODE_OF_CONDUCT.md)
 - Guías
-  - [Uso de Git](./git-workflows.md)
+  - [Uso de Git](./git_workflows.md)
+  - [¿Cómo Contribuir?](./CONTRIBUTING.md)
 
 ## Contribuir
 
