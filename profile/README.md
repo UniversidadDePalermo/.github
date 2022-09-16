@@ -8,7 +8,7 @@
 ## Links de Interés
 
 - Comunidad
-  - [Código de Conducta](../CODE_OF_CONDUCT.md)
+  - [Código de Conducta](https://github.com/UniversidadDePalermo/.github/blob/main/CODE_OF_CONDUCT.md)
 - Guías
-  - [Uso de Git](../git_workflows.md)
-  - [¿Cómo Contribuir?](../CONTRIBUTING.md)
+  - [Uso de Git](https://github.com/UniversidadDePalermo/.github/blob/main/docs/git_workflows.md)
+  - [¿Cómo Contribuir?](https://github.com/UniversidadDePalermo/.github/blob/main/CONTRIBUTING.md)
